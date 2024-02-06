@@ -1,0 +1,14 @@
+{
+  "name": "sf_njs_art_sm",
+  "version": "1.0.0",
+  "description": "Test njs artifact for sf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sennin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
